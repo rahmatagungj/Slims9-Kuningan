@@ -1,3 +1,5 @@
 Sistem ini menggunakan Slims 9 untuk mengolah data perpustakaan.
 Database = DB.sql
 Seluruh gambar dan asset adalah miliki PERPUSDA KUNINGAN Jawa Barat.
+
+Terima Kasih
